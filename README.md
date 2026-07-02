@@ -168,6 +168,10 @@ python ranker.py --output submission.csv --top-k 100 --retrieve 2000 --verbose
 
 The Streamlit app provides a **self-contained sandbox** that runs the full ranking pipeline **without requiring Qdrant** (all computation happens in-memory). This satisfies the **Section 10.5** requirement of the submission spec.
 
+### 🔗 Live Demo
+
+**[https://resume-ranker---redrobai-h8zhgdm4ccfm7avffwcrbv.streamlit.app/](https://resume-ranker---redrobai-h8zhgdm4ccfm7avffwcrbv.streamlit.app/)**
+
 ### Running Locally
 
 ```bash
