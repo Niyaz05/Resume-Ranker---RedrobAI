@@ -1,0 +1,23 @@
+# ==============================================================================
+# Hybrid Candidate Ranking Engine — Dependencies
+# ==============================================================================
+# Optimised for Apple Silicon (M1/M2) with 8 GB RAM.
+#   • polars  — columnar DataFrame engine; 3-5× less RAM than pandas
+#   • qdrant-client — pure-Python gRPC/REST client for Qdrant vector DB
+#   • sentence-transformers — wraps HuggingFace for embedding models
+#   • orjson — 2× faster JSON parsing than stdlib (important for 100K JSONL)
+#   • tqdm — progress bars for long-running ingestion
+#   • fastapi + uvicorn — kept for future API exposure (not used in CLI mode)
+#   • streamlit — sandbox/demo app for reproducibility (Section 10.5)
+#   • numpy — in-memory cosine similarity for Streamlit sandbox
+# ==============================================================================
+
+polars>=1.0.0
+qdrant-client>=1.9.0
+sentence-transformers>=2.7.0
+orjson>=3.10.0
+tqdm>=4.66.0
+fastapi>=0.111.0
+uvicorn>=0.30.0
+streamlit>=1.35.0
+numpy>=1.26.0

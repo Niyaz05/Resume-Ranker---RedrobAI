@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0011687,1,0.6878,Senior NLP Engineer with 7.8 yrs exp. strong semantic match (0.69). 4 core AI skills; product co. exp; responsive (89%); 15d notice; active GitHub (76).
+CAND_0061655,2,0.684,Machine Learning Engineer with 4.6 yrs exp. strong semantic match (0.64). 5 core AI skills; product co. exp; responsive (88%); 15d notice; active GitHub (56).
+CAND_0018499,3,0.6404,Senior Machine Learning Engineer with 7.2 yrs exp. strong semantic match (0.68). 5 core AI skills; product co. exp; responsive (61%); 15d notice; active GitHub (95).
+CAND_0002025,4,0.6199,Senior AI Engineer with 5.9 yrs exp. strong semantic match (0.69). 6 core AI skills; product co. exp; responsive (80%); 30d notice; active GitHub (97).
+CAND_0086022,5,0.6092,Senior Applied Scientist with 5.3 yrs exp. strong semantic match (0.67). 4 core AI skills; product co. exp; responsive (55%); 0d notice; active GitHub (75).
+CAND_0045250,6,0.5904,Applied ML Engineer with 6.6 yrs exp. strong semantic match (0.66). 4 core AI skills; product co. exp; responsive (74%); 15d notice.
+CAND_0037566,7,0.578,Machine Learning Engineer with 6.9 yrs exp. strong semantic match (0.66). 3 core AI skills; product co. exp; responsive (50%); 15d notice; active GitHub (73).
+CAND_0080766,8,0.5585,Staff Machine Learning Engineer with 8.8 yrs exp. strong semantic match (0.65). 5 core AI skills; product co. exp; responsive (66%); 0d notice.
+CAND_0099806,9,0.5427,AI Engineer with 4.6 yrs exp. strong semantic match (0.67). 5 core AI skills; product co. exp; responsive (76%); 30d notice; active GitHub (87).
+CAND_0068932,10,0.5412,ML Engineer with 5.2 yrs exp. strong semantic match (0.67). 2 core AI skills; product co. exp; responsive (82%); 30d notice; active GitHub (70).
+CAND_0049538,11,0.5376,Applied ML Engineer with 5.8 yrs exp. strong semantic match (0.67). 4 core AI skills; product co. exp; responsive (72%); 30d notice; active GitHub (91).
+CAND_0051004,12,0.5322,Senior Data Scientist with 4.7 yrs exp. strong semantic match (0.62). 2 core AI skills; product co. exp; 15d notice.
+CAND_0068811,13,0.5228,Applied ML Engineer with 8.0 yrs exp. strong semantic match (0.64). 5 core AI skills; product co. exp; 30d notice.
+CAND_0018888,14,0.5153,AI Research Engineer with 6.5 yrs exp. strong semantic match (0.65). 2 core AI skills; product co. exp; responsive (55%); 30d notice; active GitHub (51).
+CAND_0046064,15,0.5131,Senior NLP Engineer with 8.9 yrs exp. strong semantic match (0.69). 4 core AI skills; product co. exp; responsive (78%); 30d notice; active GitHub (67).
+CAND_0046132,16,0.5097,AI Research Engineer with 4.3 yrs exp. strong semantic match (0.69). 1 core AI skills; product co. exp; responsive (94%); 30d notice.
+CAND_0068351,17,0.5038,Lead AI Engineer with 6.4 yrs exp. strong semantic match (0.65). 4 core AI skills; product co. exp; responsive (86%); 0d notice.
+CAND_0042506,18,0.5033,Search Engineer with 4.2 yrs exp. strong semantic match (0.71). 5 core AI skills; product co. exp; 15d notice; active GitHub (64).
+CAND_0043228,19,0.5022,Applied ML Engineer with 6.8 yrs exp. strong semantic match (0.63). 3 core AI skills; product co. exp; 30d notice.
+CAND_0050454,20,0.4972,AI Engineer with 6.8 yrs exp. strong semantic match (0.66). 3 core AI skills; product co. exp; responsive (77%); 30d notice.
+CAND_0062247,21,0.4881,AI Engineer with 7.3 yrs exp. strong semantic match (0.67). 3 core AI skills; product co. exp; responsive (78%); 30d notice; active GitHub (53).
+CAND_0093912,22,0.477,Senior Data Scientist with 5.3 yrs exp. strong semantic match (0.64). 3 core AI skills; product co. exp; responsive (66%); 30d notice; active GitHub (82).
+CAND_0081846,23,0.4705,Lead AI Engineer with 6.7 yrs exp. strong semantic match (0.69). 5 core AI skills; product co. exp; responsive (73%); 30d notice.
+CAND_0019845,24,0.4582,AI Specialist with 3.4 yrs exp. strong semantic match (0.65). 3 core AI skills; product co. exp; responsive (78%); 30d notice.
+CAND_0005311,25,0.4479,AI Research Engineer with 5.7 yrs exp. strong semantic match (0.65). 2 core AI skills; product co. exp; 30d notice; active GitHub (70).
+CAND_0060814,26,0.4417,Data Scientist with 3.9 yrs exp. strong semantic match (0.63). 1 core AI skills; product co. exp; 30d notice; active GitHub (50).
+CAND_0015528,27,0.4383,Applied ML Engineer with 7.4 yrs exp. strong semantic match (0.63). 4 core AI skills; product co. exp; responsive (53%); 30d notice; active GitHub (51).
+CAND_0060054,28,0.4363,AI Engineer with 6.4 yrs exp. strong semantic match (0.64). 3 core AI skills; product co. exp; responsive (86%); 15d notice.
+CAND_0096104,29,0.4308,AI Specialist with 7.0 yrs exp. strong semantic match (0.66). 1 core AI skills; product co. exp; 30d notice; active GitHub (72).
+CAND_0080315,30,0.4283,AI Research Engineer with 4.1 yrs exp. strong semantic match (0.63). 4 core AI skills; product co. exp; 30d notice.
+CAND_0013665,31,0.4236,Senior Software Engineer (ML) with 5.2 yrs exp. strong semantic match (0.63). 2 core AI skills; product co. exp; responsive (73%); 30d notice.
+CAND_0076587,32,0.4233,AI Specialist with 4.9 yrs exp. strong semantic match (0.64). 3 core AI skills; product co. exp; 30d notice.
+CAND_0036184,33,0.4215,Recommendation Systems Engineer with 6.0 yrs exp. strong semantic match (0.63). 3 core AI skills; product co. exp; responsive (90%); 30d notice.
+CAND_0069638,34,0.4181,Computer Vision Engineer with 6.2 yrs exp. strong semantic match (0.63). 1 core AI skills; product co. exp; responsive (64%); 30d notice.
+CAND_0015967,35,0.408,Senior Software Engineer (ML) with 5.4 yrs exp. strong semantic match (0.64). 2 core AI skills; product co. exp; 30d notice.
+CAND_0051292,36,0.4066,Applied ML Engineer with 5.2 yrs exp. strong semantic match (0.63). 3 core AI skills; product co. exp; responsive (52%); 30d notice; active GitHub (62).
+CAND_0008239,37,0.3992,AI Engineer with 4.0 yrs exp. strong semantic match (0.64). 5 core AI skills; product co. exp; responsive (73%); 15d notice; active GitHub (57).
+CAND_0033577,38,0.3953,Mechanical Engineer with 4.2 yrs exp. strong semantic match (0.64). 4 core AI skills; product co. exp; 30d notice.
+CAND_0033179,39,0.3897,AI Research Engineer with 6.9 yrs exp. strong semantic match (0.68). 2 core AI skills; product co. exp; responsive (84%); 30d notice.
+CAND_0087630,40,0.3832,AI Engineer with 7.2 yrs exp. strong semantic match (0.65). 4 core AI skills; product co. exp; 30d notice.
+CAND_0074024,41,0.3813,AI Specialist with 3.9 yrs exp. strong semantic match (0.63). 2 core AI skills; product co. exp; responsive (50%); 30d notice.
+CAND_0079284,42,0.3812,Machine Learning Engineer with 4.9 yrs exp. strong semantic match (0.63). 3 core AI skills; product co. exp; responsive (79%); 30d notice.
+CAND_0036437,43,0.3808,Search Engineer with 4.8 yrs exp. strong semantic match (0.68). 5 core AI skills; product co. exp; responsive (87%); 30d notice.
+CAND_0094728,44,0.3804,AI Specialist with 6.5 yrs exp. strong semantic match (0.63). 3 core AI skills; product co. exp; 30d notice; active GitHub (68).
+CAND_0041610,45,0.3633,Recommendation Systems Engineer with 6.7 yrs exp. strong semantic match (0.66). 3 core AI skills; product co. exp; responsive (52%); 30d notice; active GitHub (52).
+CAND_0040887,46,0.3459,Machine Learning Engineer with 4.7 yrs exp. strong semantic match (0.66). 3 core AI skills; product co. exp; responsive (84%); 15d notice.
+CAND_0037000,47,0.3458,Search Engineer with 2.7 yrs exp. strong semantic match (0.69). 3 core AI skills; product co. exp; responsive (61%); 15d notice; active GitHub (67).
+CAND_0062533,48,0.3438,Civil Engineer with 4.9 yrs exp. strong semantic match (0.64). 2 core AI skills; product co. exp; responsive (66%); 30d notice.
+CAND_0053695,49,0.3433,Recommendation Systems Engineer with 5.8 yrs exp. strong semantic match (0.62). 2 core AI skills; product co. exp; responsive (60%); 15d notice; active GitHub (68).
+CAND_0061257,50,0.3419,Staff Machine Learning Engineer with 8.0 yrs exp. strong semantic match (0.63). 1 core AI skills; product co. exp; responsive (87%); 30d notice.
+CAND_0037160,51,0.341,Data Scientist with 6.0 yrs exp. strong semantic match (0.67). 2 core AI skills; product co. exp; responsive (74%); 30d notice.
+CAND_0066999,52,0.338,Recommendation Systems Engineer with 5.9 yrs exp. strong semantic match (0.63). 5 core AI skills; product co. exp; responsive (63%); 15d notice; active GitHub (94).
+CAND_0081852,53,0.3354,Senior Data Scientist with 5.9 yrs exp. strong semantic match (0.63). 2 core AI skills; product co. exp; active GitHub (88).
+CAND_0052360,54,0.329,ML Engineer with 3.0 yrs exp. strong semantic match (0.66). 4 core AI skills; product co. exp; 30d notice.
+CAND_0071974,55,0.3285,Senior AI Engineer with 7.8 yrs exp. strong semantic match (0.67). 6 core AI skills; product co. exp; responsive (76%); active GitHub (83).
+CAND_0009024,56,0.3257,Search Engineer with 5.2 yrs exp. strong semantic match (0.65). 3 core AI skills; product co. exp; 30d notice.
+CAND_0098846,57,0.3226,AI Engineer with 7.6 yrs exp. strong semantic match (0.69). 1 core AI skills; product co. exp; responsive (62%); active GitHub (86).
+CAND_0052431,58,0.3148,ML Engineer with 5.3 yrs exp. strong semantic match (0.63). 1 core AI skills; product co. exp; responsive (85%); active GitHub (78).
+CAND_0064331,59,0.3146,Senior Software Engineer (ML) with 4.2 yrs exp. strong semantic match (0.63). 2 core AI skills; product co. exp; responsive (74%); 30d notice.
+CAND_0065786,60,0.3103,AI Specialist with 4.9 yrs exp. strong semantic match (0.62). 2 core AI skills; product co. exp; responsive (89%); active GitHub (71).
+CAND_0013122,61,0.306,AI Specialist with 4.3 yrs exp. strong semantic match (0.66). 1 core AI skills; product co. exp; responsive (56%); 30d notice.
+CAND_0065195,62,0.306,Search Engineer with 5.1 yrs exp. strong semantic match (0.71). 2 core AI skills; product co. exp; responsive (80%); active GitHub (87).
+CAND_0052328,63,0.3031,Recommendation Systems Engineer with 6.5 yrs exp. strong semantic match (0.65). 2 core AI skills; product co. exp; responsive (79%); 30d notice; active GitHub (78).
+CAND_0064326,64,0.3012,Search Engineer with 7.6 yrs exp. strong semantic match (0.68). 3 core AI skills; product co. exp; responsive (94%); active GitHub (61).
+CAND_0042029,65,0.2978,Senior Data Scientist with 6.5 yrs exp. strong semantic match (0.64). 5 core AI skills; product co. exp; responsive (67%); active GitHub (79).
+CAND_0054394,66,0.2959,Recommendation Systems Engineer with 4.1 yrs exp. strong semantic match (0.64). 2 core AI skills; product co. exp; responsive (64%); 30d notice.
+CAND_0055905,67,0.2958,Senior Machine Learning Engineer with 8.1 yrs exp. strong semantic match (0.69). 5 core AI skills; product co. exp; responsive (87%); 30d notice.
+CAND_0021643,68,0.2952,Mechanical Engineer with 3.8 yrs exp. strong semantic match (0.66). 3 core AI skills; product co. exp; 30d notice.
+CAND_0033861,69,0.2949,Senior NLP Engineer with 8.0 yrs exp. strong semantic match (0.68). 5 core AI skills; product co. exp; 30d notice. penalised: inactive profile.
+CAND_0025640,70,0.2891,AI Research Engineer with 5.6 yrs exp. strong semantic match (0.65). 4 core AI skills; product co. exp; responsive (87%); 30d notice.
+CAND_0043381,71,0.2881,AI Research Engineer with 3.6 yrs exp. strong semantic match (0.70). 2 core AI skills; product co. exp; responsive (78%); active GitHub (71).
+CAND_0010080,72,0.2868,Civil Engineer with 7.1 yrs exp. strong semantic match (0.64). 2 core AI skills; product co. exp; responsive (68%); 30d notice.
+CAND_0029336,73,0.2859,ML Engineer with 3.8 yrs exp. strong semantic match (0.63). 3 core AI skills; product co. exp; responsive (57%).
+CAND_0020708,74,0.2839,Search Engineer with 4.2 yrs exp. strong semantic match (0.66). 4 core AI skills; product co. exp; responsive (84%); 30d notice; active GitHub (84).
+CAND_0063328,75,0.2821,Computer Vision Engineer with 4.6 yrs exp. strong semantic match (0.62). 2 core AI skills; product co. exp; active GitHub (61).
+CAND_0030348,76,0.2798,Machine Learning Engineer with 4.5 yrs exp. strong semantic match (0.66). 3 core AI skills; product co. exp; responsive (54%).
+CAND_0078492,77,0.278,Recommendation Systems Engineer with 5.1 yrs exp. strong semantic match (0.67). 3 core AI skills; product co. exp; responsive (70%); 30d notice.
+CAND_0007596,78,0.2774,Junior ML Engineer with 4.4 yrs exp. strong semantic match (0.64). 2 core AI skills; product co. exp; responsive (86%).
+CAND_0067403,79,0.2768,Junior ML Engineer with 4.6 yrs exp. strong semantic match (0.64). 1 core AI skills; product co. exp; 30d notice; active GitHub (80).
+CAND_0030780,80,0.276,AI Specialist with 3.8 yrs exp. strong semantic match (0.63). product co. exp; responsive (61%); active GitHub (83).
+CAND_0008295,81,0.2703,AI Research Engineer with 6.5 yrs exp. strong semantic match (0.67). 2 core AI skills; product co. exp; responsive (89%); active GitHub (51).
+CAND_0094759,82,0.267,Lead AI Engineer with 8.6 yrs exp. strong semantic match (0.69). 4 core AI skills; product co. exp; 30d notice; active GitHub (76). penalised: inactive profile.
+CAND_0075249,83,0.2621,Applied ML Engineer with 6.2 yrs exp. strong semantic match (0.64). 2 core AI skills; product co. exp; responsive (82%).
+CAND_0039521,84,0.2599,Search Engineer with 3.0 yrs exp. strong semantic match (0.66). 3 core AI skills; product co. exp; 30d notice.
+CAND_0085089,85,0.253,Civil Engineer with 10.4 yrs exp. strong semantic match (0.65). 2 core AI skills; product co. exp; 30d notice.
+CAND_0093193,86,0.2519,Senior Machine Learning Engineer with 7.9 yrs exp. strong semantic match (0.62). 2 core AI skills; product co. exp; responsive (61%).
+CAND_0064270,87,0.2518,Applied ML Engineer with 4.2 yrs exp. strong semantic match (0.67). 3 core AI skills; product co. exp; responsive (82%).
+CAND_0007411,88,0.2492,Senior Machine Learning Engineer with 8.0 yrs exp. strong semantic match (0.66). 3 core AI skills; product co. exp; 15d notice; active GitHub (90). penalised: inactive profile.
+CAND_0088335,89,0.2472,AI Research Engineer with 6.4 yrs exp. strong semantic match (0.66). 1 core AI skills; product co. exp; 30d notice; active GitHub (64).
+CAND_0000739,90,0.2465,Civil Engineer with 11.1 yrs exp. strong semantic match (0.65). 4 core AI skills; product co. exp; responsive (55%); 30d notice.
+CAND_0062751,91,0.2458,Mechanical Engineer with 9.7 yrs exp. strong semantic match (0.63). 4 core AI skills; product co. exp; responsive (50%); 30d notice.
+CAND_0051593,92,0.2409,AI Specialist with 3.7 yrs exp. strong semantic match (0.65). 1 core AI skills; product co. exp; 30d notice.
+CAND_0048166,93,0.2395,ML Engineer with 5.2 yrs exp. strong semantic match (0.63). 3 core AI skills; product co. exp; 30d notice; active GitHub (72).
+CAND_0094685,94,0.2387,AI Research Engineer with 3.5 yrs exp. strong semantic match (0.65). 2 core AI skills; product co. exp; responsive (68%); active GitHub (53).
+CAND_0046525,95,0.2362,Senior Machine Learning Engineer with 6.1 yrs exp. strong semantic match (0.70). 4 core AI skills; product co. exp; responsive (88%).
+CAND_0082913,96,0.2345,Senior Software Engineer (ML) with 5.5 yrs exp. strong semantic match (0.65). 2 core AI skills; product co. exp; responsive (73%).
+CAND_0009516,97,0.2333,AI Specialist with 6.9 yrs exp. strong semantic match (0.65). 2 core AI skills; product co. exp; 30d notice; active GitHub (76).
+CAND_0082305,98,0.2307,Civil Engineer with 10.8 yrs exp. strong semantic match (0.63). 4 core AI skills; product co. exp; 30d notice.
+CAND_0040959,99,0.2297,Civil Engineer with 3.2 yrs exp. strong semantic match (0.66). 3 core AI skills; product co. exp; responsive (71%); 30d notice.
+CAND_0001151,100,0.2294,Junior ML Engineer with 5.0 yrs exp. strong semantic match (0.63). 1 core AI skills; product co. exp; responsive (56%).
